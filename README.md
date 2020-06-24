@@ -35,3 +35,6 @@
 &emsp;├─ utils.py<br>
 &emsp;├─ ops.py<br>
 &emsp;├─ StackGAN.py<br>
+
+
+## Result
