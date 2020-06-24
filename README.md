@@ -40,8 +40,10 @@ Click on [video demo](https://youtu.be/ItSQF6OB5Ig) to watch details
 &emsp;├─ ops.py<br>
 &emsp;├─ StackGAN.py<br>
 
-
 ## Result
 ![bird1](/kq/chim1.png)
 ![bird2](/kq/chim2.png)
 ![bird3](/kq/ketqua.png)
+
+## Reference
+My project was made based on [this paper](https://github.com/taki0112/StackGAN-Tensorflow#-text-to-photo-realistic-image-synthesis-with-stacked-generative-adversarial-networks)
