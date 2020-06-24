@@ -1,6 +1,8 @@
 # StackGAN - Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 ## Processing
 ![processing](/imageSource/procesStackGans.jpg)
+## Demo
+[Video on youtube](https://youtu.be/ItSQF6OB5Ig)
 ## Dataset
 * Image: [Caltech-UCSD Birds-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
 * Text: [char-CNN-RNN text embedding](https://drive.google.com/file/d/0B3y_msrWZaXLT1BZdVdycDY5TEE/view)
