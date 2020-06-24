@@ -5,33 +5,33 @@
 
 ## Usage
 ├─ project_folder (thư mục chứa dự án)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├─ dataset<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ birds<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ images<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ domain1 (thư mục 1 loài chim)<br>
-          ├─ aaa.jpg (hình ảnh loài chim)<br>
-          ├─ bbb.jpg<br>
-          ├─ ... <br>
-        ├─ domain2<br>
-          ├─ ccc.jpg (hình ảnh loài chim)<br>
-          ├─ ddd.jpg<br>
-          ├─ ... <br>
-        ├─ domain3<br>
-        ├─ ... <br>
-      ├─ text<br>
-        ├─ filename.pickle<br>
-        ├─ class_infor.pickle<br>
-  ├─ checkpoint<br>
-    ├─ StackGAN_birds_gan_1adv_2kl<br>
-      ├─ checkpoint<br>
-      ├─ StackGAN.model.data-00000-of-00001<br>
-      ├─ StackGAN.model.index<br>
-      ├─ StackGAN.model.meta<br>
-  ├─ imageSource<br>
-    ├─ openfile.png<br>
-    ├─ save.png<br>
-    ├─ ... <br>
-  ├─ buildGUI.py (chạy tệp tin này để chạy phần mềm)<br>
-  ├─ utils.py<br>
-  ├─ ops.py<br>
-  ├─ StackGAN.py<br>
+&emsp;├─ dataset<br>
+&emsp;&emsp;└─ birds<br>
+&emsp;&emsp;&emsp;├─ images<br>
+&emsp;&emsp;&emsp;&emsp;├─ domain1 (thư mục 1 loài chim)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ aaa.jpg (hình ảnh loài chim)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ bbb.jpg<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ ... <br>
+&emsp;&emsp;&emsp;&emsp;├─ domain2<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ ccc.jpg (hình ảnh loài chim)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ ddd.jpg<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ ... <br>
+&emsp;&emsp;&emsp;&emsp;├─ domain3<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;├─ ... <br>
+&emsp;&emsp;&emsp;├─ text<br>
+&emsp;&emsp;&emsp;&emsp;├─ filename.pickle<br>
+&emsp;&emsp;&emsp;&emsp;├─ class_infor.pickle<br>
+&emsp;├─ checkpoint<br>
+&emsp;&emsp;├─ StackGAN_birds_gan_1adv_2kl<br>
+&emsp;&emsp;&emsp;├─ checkpoint<br>
+&emsp;&emsp;&emsp;├─ StackGAN.model.data-00000-of-00001<br>
+&emsp;&emsp;&emsp;├─ StackGAN.model.index<br>
+&emsp;&emsp;&emsp;├─ StackGAN.model.meta<br>
+&emsp;├─ imageSource<br>
+&emsp;&emsp;├─ openfile.png<br>
+&emsp;&emsp;├─ save.png<br>
+&emsp;&emsp;├─ ... <br>
+&emsp;├─ buildGUI.py (chạy tệp tin này để chạy phần mềm)<br>
+&emsp;├─ utils.py<br>
+&emsp;├─ ops.py<br>
+&emsp;├─ StackGAN.py<br>
